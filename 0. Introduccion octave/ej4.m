@@ -115,6 +115,3 @@ disp('Parte j')
 
 F=rand(9,9);
 F=F-diag(diag(F))
-
-disp('----------------')
-disp('Parte g')
